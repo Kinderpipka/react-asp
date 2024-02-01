@@ -1,0 +1,13 @@
+body {
+ background-image: url(../public/cosmos.jpg);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+ background-size: cover;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

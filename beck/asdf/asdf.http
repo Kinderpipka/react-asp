@@ -1,0 +1,6 @@
+@asdf_HostAddress = http://localhost:5053
+
+GET {{asdf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
